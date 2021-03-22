@@ -1,0 +1,132 @@
+phone,nokia
+phone,nokia
+phone,nokia
+phone,nokia
+phone,nokia
+phone,nokia
+phone,nokia
+phone,nokia
+phone,nokia
+phone,nokia
+phone,nokia
+phone,nokia
+phone,nokia
+phone,nokia
+phone,nokia
+phone,nokia
+phone,huawei
+phone,huawei
+phone,huawei
+phone,huawei
+phone,huawei
+phone,huawei
+phone,huawei
+phone,huawei
+phone,sony
+phone,sony
+phone,apple
+phone,apple
+pc,hp
+pc,hp
+pc,hp
+pc,hp
+pc,hp
+pc,hp
+pc,hp
+pc,hp
+pc,hp
+pc,hp
+pc,sony
+pc,sony
+pc,sony
+pc,apple
+pc,apple
+camera,hp
+camera,hp
+camera,hp
+camera,hp
+camera,hp
+camera,hp
+camera,hp
+camera,hp
+camera,hp
+camera,hp
+camera,hp
+camera,hp
+camera,hp
+camera,hp
+camera,sony
+camera,sony
+camera,sony
+digital camera,hp
+digital camera,hp
+digital camera,hp
+digital camera,hp
+digital camera,hp
+digital camera,hp
+digital camera,hp
+digital camera,hp
+digital camera,hp
+digital camera,hp
+digital camera,hp
+digital camera,hp
+digital camera,hp
+digital camera,hp
+digital camera,hp
+digital camera,hp
+digital camera,hp
+digital camera,sony
+digital camera,sony
+digital camera,sony
+digital camera,sony
+digital camera,sony
+digital camera,sony
+digital camera,sony
+digital camera,sony
+digital camera,sony
+digital camera,sony
+digital camera,sony
+digital camera,sony
+tv,sony
+tv,sony
+tv,sony
+tv,apple
+tv,apple
+tv,apple
+tv,apple
+tv,apple
+tv,apple
+tv,bestbuy
+tv,bestbuy
+tv,bestbuy
+flower,teleflora
+flower,teleflora
+flower,teleflora
+flower,teleflora
+flower,teleflora
+flower,teleflora
+flower,teleflora
+flower,teleflora
+flower,teleflora
+flower,teleflora
+flower,teleflora
+flower,teleflora
+flower,teleflora
+flower,teleflora
+flower,teleflora
+flower,teleflora
+flower,orchids
+flower,orchids
+flower,orchids
+flower,orchids
+flower,orchids
+flower,orchids
+flower,orchids
+flower,orchids
+flower,orchids
+flower,orchids
+flower,orchids
+flower,orchids
+flower,orchids
+flower,orchids
+flower,orchids
